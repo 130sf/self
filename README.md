@@ -1,4 +1,4 @@
-<h1 align="left">..Hello..</h1>
+<h4 align="center">..Hello..</h4>
 <h4 align="center">a Junior Web-Developer | Stgt. / Esslingen | Germany</h4>
 
 <h5 align="left">Contact:</h5>
